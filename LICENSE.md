@@ -1,4 +1,4 @@
-# 
+# premium cross-margin trading bot Addon | low-frequency + latency-optimization is the best cross-margin trading bot, featuring low-frequency and latency-optimization. Smart, fast,
 
 
 
